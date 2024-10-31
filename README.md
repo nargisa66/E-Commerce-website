@@ -22,11 +22,6 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 
 
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/SajidBhatti786/Ecommerce-website.git`
-2. Open the project directory: `cd Ecommerce-website`
-3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
@@ -34,13 +29,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 2. Navigate to index.html file in root directory or index.html file in html folder.
 3. double click or open in any browser to launch the website
    
-## Contributing
 
-If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
-## Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=100026991042689&mibextid=ZbWKwL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajid-bhatti-b2436b24a)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/SajidBhatti786)
 
 ## Keywords:
 - Ecommerce website
